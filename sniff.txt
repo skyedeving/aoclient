@@ -1,0 +1,537 @@
+Send: Return Code: 0x00000000
+decryptor#34#%
+
+Receive: Return Code: 0x00000000
+#48E0#PN
+
+Receive: Return Code: 0x00000000
+#48E0#PNY11162171570202A75#%
+#HI#PNY11162171570202A75#%
+
+Send: Return Code: 0x00000000
+ID#11#v1069.130#%
+
+Send: Return Code: 0x00000000
+PN#0#5#%
+
+Receive: Return Code: 0x00000000
+#615810B
+
+Receive: Return Code: 0x00000000
+#615810BC07D139#%
+
+Send: Return Code: 0x00000000
+SI#5#2#71#%
+
+Receive: Return Code: 0x00000000
+#615810B
+
+Receive: Return Code: 0x00000000
+#615810BC07D12A5A#
+
+Send: Return Code: 0x00000000
+CI#0#Phoenix&No description&0&,1&&0&#1#EmaSkye&No description&0&,1&&0&#2#zettaslow&No description&0&,1&&0&#3#zettaslow&No description&0&,1&&0&#4#zettaslow&No description&0&,1&&0&#5#zettaslow&No description&0&,1&&0&##%
+
+Receive: Return Code: 0x00000000
+#41A5#1#
+
+Receive: Return Code: 0x00000000
+#41A5#1#%
+
+Send: Return Code: 0x00000000
+EI#1#DEFAULT&This is default evidence&1&2.png&##%
+
+Receive: Return Code: 0x00000000
+#41AE#1#
+
+Receive: Return Code: 0x00000000
+#41AE#1#%
+
+Send: Return Code: 0x00000000
+EI#2#DEFAULT&This is default evidence&1&2.png&##%
+
+Receive: Return Code: 0x00000000
+#41AE#2#
+
+Receive: Return Code: 0x00000000
+#41AE#2#%
+
+Send: Return Code: 0x00000000
+EM#0#>Default#1#>Alternative#2#>Party#3#~stop.mp3#4#--- AA ---#5#Annonce The Truth(AA).mp3#6#OBJECTION (AA).mp3#7#Prelude(AA).mp3#8#PURSUIT(AA).mp3#9#PURSUIT(AA) - variation.mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#1#
+
+Receive: Return Code: 0x00000000
+#41A6#1#%
+
+Send: Return Code: 0x00000000
+EM#10#Questioning(AA-allergo).mp3#11#Questioning(AA-normal).mp3#12#Trial(AA).mp3#13#Suspence(AA).mp3#14#--- AJ ---#15#Annonce The Truth(AJ).mp3#16#OBJECTIOM(AJ).mp3#17#Annonce The Truth(JFA).mp3#18#Prelude(AJ).mp3#19#PURSUIT(AJ).mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#2#
+
+Receive: Return Code: 0x00000000
+#41A6#2#%
+
+Send: Return Code: 0x00000000
+EM#20#Questioning AJ (Allegro).mp3#21#Questioning AJ (Moderato).mp3#22#Trial(AJ).mp3#23#--- JFA ---#24#OBJECTION (JFA).mp3#25#PURSUIT(JFA).mp3#26#PURSUIT(JFA) - variation.mp3#27#Questioning JFA (Allegro).mp3#28#Questioning JFA (Moderato).mp3#29#--- Miles ---##%
+
+Receive: Return Code: 0x00000000
+#41A6#3#
+
+Receive: Return Code: 0x00000000
+#41A6#3#%
+
+Send: Return Code: 0x00000000
+EM#30#114 Pursuit(Miles).mp3#31#Annonce The Truth(Miles).mp3#32#Great Revival ~ Miles Edgeworth.mp3#33#OBJECTION(Miles).mp3#34#Trial(Miles).mp3#35#--- T&T ---#36#Annonce The Truth(T&T).mp3#37#OBJECTION (T&T).mp3#38#PURSUIT(T&T) - variation.mp3#39#PURSUIT(T&T).mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#4#
+
+Receive: Return Code: 0x00000000
+#41A6#4#%
+
+Send: Return Code: 0x00000000
+EM#40#Questioning T&T (Allegro).mp3#41#Questioning T&T (Moderato).mp3#42#--- Godot ---#43#Godot - The Fragrance of Dark Coffee.mp3#44#--- Others ---#45#01_turnabout_courtroom_-_prologue.mp3#46#113 Confrontation ~ Presto 2009.mp3#47#Crises of Fate.mp3#48#Forgotten Legend.mp3#49#Great Revival ~ Franziska von Karma.mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#5#
+
+Receive: Return Code: 0x00000000
+#41A6#5#%
+
+Send: Return Code: 0x00000000
+EM#50#Hotline of Fate.mp3#51#Interesting People.mp3#52#logic_and_trick.mp3#53#Luke Atmey ~ I Just Want Love.mp3#54#Mystery Skulls - Money.mp3#55#Noisy People.mp3#56#Others ~ Guilty love.mp3#57#Pursuit ~ I Want to Find the Truth(Orchestra).mp3#58#Speak up, Pup!.mp3#59#The Great Truth Burglar.mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#6#
+
+Receive: Return Code: 0x00000000
+#41A6#6#%
+
+Send: Return Code: 0x00000000
+EM#60#--- TWEWY ---#61#3DKH.mp3#62#Sin.mp3#63#Trans.mp3#64#--- Ghost Trick ---#65#Ghost Trick - 4 Minutes Before Death.mp3#66#Ghost Trick - Countdown.mp3#67#Ghost Trick - The World of the Dead.mp3#68#--- MLP ---#69#OBJECTION(trixie).mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#7#
+
+Receive: Return Code: 0x00000000
+#41A6#7#%
+
+Send: Return Code: 0x00000000
+EM#70#Super Trixie.mp3##%
+
+Receive: Return Code: 0x00000000
+#41A6#8#
+
+Receive: Return Code: 0x00000000
+#41A6#8#%
+
+Send: Return Code: 0x00000000
+CharsCheck#0#0#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+BN#default#%
+
+Send: Return Code: 0x00000000
+OPPASS#6C545A611923C6#%
+
+Send: Return Code: 0x00000000
+MM#1#%
+
+Send: Return Code: 0x00000000
+DONE#%
+
+Receive: Return Code: 0x00000000
+#43CC#11
+
+Receive: Return Code: 0x00000000
+#43CC#11#0#PNY11162171570202A75#%
+
+Send: Return Code: 0x00000000
+PV#11#CID#0#%
+
+Send: Return Code: 0x00000000
+HP#1#10#%
+
+Send: Return Code: 0x00000000
+HP#2#10#%
+
+Send: Return Code: 0x00000000
+MS#chat#dolannormal#Dolan#dolannormal#Take that!#jud#1#2#4#0#3#1#4#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#normal#Emote 1#def#1#0#0#1#0#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#normal#Emote 1#def#1#0#0#1#0#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#thinking#Emote 2 Hold it!#def#1#2#0#1#1#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#thinking#Emote 2 Hold it!#def#1#2#0#1#1#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#objectingfix#Phoenix#pointing#Emore 3 Objection#def#1#2#0#1#2#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#objectingfix#Phoenix#pointing#Emore 3 Objection#def#1#2#0#1#2#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#objectingfix#Phoenix#pointing#Emote 4 Take That!#def#1#2#0#1#3#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#objectingfix#Phoenix#pointing#Emote 4 Take That!#def#1#2#0#1#3#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#objectingfix#Phoenix#pointing#I mean 3#def#1#0#0#1#0#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#objectingfix#Phoenix#pointing#I mean 3#def#1#0#0#1#0#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#pointing#Emote 4 exclamation point#def#1#0#0#1#0#0#0#1#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#pointing#Emote 4 exclamation point#def#1#0#0#1#0#0#0#1#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#pointing#Emote 4 Green#def#1#0#0#1#0#0#0#0#1#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#pointing#Emote 4 Green#def#1#0#0#1#0#0#0#0#1#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#pointing#Emote 4 Red#def#1#0#0#1#0#0#0#0#2#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#pointing#Emote 4 Red#def#1#0#0#1#0#0#0#0#2#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#pointing#Emote 5 OJ#def#1#0#0#1#0#0#0#0#3#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#pointing#Emote 5 OJ#def#1#0#0#1#0#0#0#0#3#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#pointing#I mean 4 and Emote 4 BLue#def#1#0#0#1#0#0#0#0#4#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#pointing#I mean 4 and Emote 4 BLue#def#1#0#0#1#0#0#0#0#4#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D90#ch
+
+Receive: Return Code: 0x00000000
+#4D90#chat#normal#Phoenix#confident#Emote 5 regulatr#def#1#0#0#1#0#0#0#0#0#%
+
+Send: Return Code: 0x00000000
+MS#chat#normal#Phoenix#confident#Emote 5 regulatr#def#1#0#0#1#0#0#0#0#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43DB#my
+
+Receive: Return Code: 0x00000000
+#43DB#myname#Sever hi#%
+
+Send: Return Code: 0x00000000
+CT#myname#Sever hi#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Receive: Return Code: 0x00000000
+#4D80#An
+
+Receive: Return Code: 0x00000000
+#4D80#Annonce The Truth(AA).mp3#0#%
+
+Send: Return Code: 0x00000000
+MC#Annonce The Truth(AA).mp3#0#%
+
+Receive: Return Code: 0x00000000
+#4D80#OB
+
+Receive: Return Code: 0x00000000
+#4D80#OBJECTION (AA).mp3#0#%
+
+Send: Return Code: 0x00000000
+MC#OBJECTION (AA).mp3#0#%
+
+Receive: Return Code: 0x00000000
+#4D80#Pr
+
+Receive: Return Code: 0x00000000
+#4D80#Prelude(AA).mp3#0#%
+
+Send: Return Code: 0x00000000
+MC#Prelude(AA).mp3#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%
+
+Receive: Return Code: 0x00000000
+#4D80#~s
+
+Receive: Return Code: 0x00000000
+#4D80#~stop.mp3#0#%
+
+Send: Return Code: 0x00000000
+MC#~stop.mp3#0#%
+
+Receive: Return Code: 0x00000000
+#43C7#0#
+
+Receive: Return Code: 0x00000000
+#43C7#0#%
+
+Send: Return Code: 0x00000000
+CHECK#%

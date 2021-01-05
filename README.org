@@ -1,0 +1,154 @@
+#+CAPTION: Screenshot of the working client
+#+NAME: AOClient
+[[http://i.imgur.com/j2zq01b.png]]
+
+Sniffed game packets and wrote a fully working client in Common Lisp.
+Probably outdated now though.
+
+* Protocol
+Messages are sent between client and server as strings through TCP
+sockets.  Each message consists of a command, its parameters separated
+by delimiters, and ending with the character #\% consisting of a
+format like so:
+
+CMD#PARAM1#PARAM2#PARAM3#...#PARAM[n]#%
+
+* Cryptography
+In outgoing client messages, some parts are encrypted in the client
+with an XOR cipher before being sent out.  When the client initially
+connects to the server, it receives an encrypted KEY as a response in
+the form of byte-sized hexadecimals in a string.  Decryption first
+involves converting each of the byte-sized hexadecimal values into
+ASCII characters for a new string.  Next, the XOR cipher maps all the
+ASCII values of the characters of the new string with the KEY
+right-shifted by 8 bits.  
+
+To complicate things a little, after every ASCII value that gets
+mapped, the key changes for every subsequent character of the string.
+Basically, the previous key is added to the ASCII value of the mapped
+character, multiplied with a magic number, and added to another magic
+number to finally create a new key used to cipher the next character.
+This relies on the key being an unsigned integer that overflows, but
+since Common Lisp does not deal with that, the effect is emulated with
+a modulo 65536 (1+ max value of an unsigned integer) on the resulting
+key.
+
+Encryption is easily performed by mapping the aforementioned cipher on
+the target string by using the newly deciphered KEY.  Also, the
+initial key the client uses to decipher the KEY happens to be another
+magic number.  This XOR cipher bears similarities to the Lorenz cipher
+used in World War II.
+
+
+* Commands and their Parameters
+** Get the key used for all encryption
+decryptor#[key]#%
+** Talk with the server by sending a "What's up?"
+*** Send 
+HI#[hdid]#%
+
+[hdid] either tells the server who we are or the client we're using.
+*** Receive
+ID#[AID]#[Server Version]#%
+PN#[Population]#[Capacity]#%
+
+Not sure what the [AID] is used for right now.
+** Ask the server what exists
+*** Send
+askchaa#%
+*** Receive
+SI#[Characters]#[Evidence]#[Music]#%
+
+** Get character list
+*** Send
+askchar2#%
+AN # Page? #%
+
+*** Receive
+CI# Character ID # Name
+
+** Get Evidence list
+*** Send
+AE # Page? #%
+
+** Get Music List
+*** Send
+AM # Page? #%
+*** Receive
+EM # [Id # Title] ... #%
+
+** Get Characters in Use/Available
+CharsCheck# [0 /-1] ... #%
+
+If character is unavailable on switching areas then we get this stuff again.
+
+** Music mode
+MM # ? #%
+
+** Something is done?
+DONE#%
+
+** Character Choose
+*** Send
+CC # AID # Character ID # HDid #%
+*** Receive
+PV # AID # CID # Character Id #%
+
+Confirmation probably
+
+** Out of character Chat
+*** /switch
+Get everything after the loading stuff with CharsCheck.  
+
+** In character chat
+*** Send & Receive
+MS #
+
+chat # 
+
+Preanim # 
+
+Character # 
+
+TalkingEmote # 
+
+Message # 
+
+Position #
+
+SoundFX #
+
+TalkMode[0 = Talk and Instant Appear, 1 = Preanimation play, and SFX, 2 = Activate pressing?, 5 = ZOOM] #
+
+Character ID (This one doesn't seem to do anything though) #
+
+SoundTiming #
+
+Pressing[0 = Courtroom, 1 = Hold it,2 = Objection, 3 = Take That!] #
+
+EVIDENCE ID? #
+
+Character ID (Character ID, will change the ICC name) #
+
+Flash[0, Normal, 1 = Flash] #
+
+Color[0 = Normal/Black, 1 = Green, 2 = Red, 3 = OJ, 4 = Blue] #%
+
+The client should switch the talk mode from 1 to 0 by itself
+** Out of Character Chat
+CT # Name # Message #%
+** Music Change
+MC # Music Name # Client ID #%
+
+** Background
+BN # BG Name #%
+
+** Telling that a character exists every now and then, basically pinging
+*** Send
+CH # Character ID $%
+*** Receive
+CHECK#%
+
+** HP Bars, also able to be set
+*** Send / Receive
+HP # Bar[1 = Blue, 2 = Red] # Range[0-10] #%
